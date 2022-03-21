@@ -1,0 +1,120 @@
+Launch the Browser
+Enter the URL 
+Enter into a text box
+Click action 
+Different ways to identify the elements 
+We can identify every element uniquiely 
+Identifiers : 
+   id 
+   name
+   cssSelector
+   xpath 
+   
+   ClassName
+   linkText
+   Partial Link Text
+   TagName 
+ 
+ different options in Xpath 
+ Absolute and Relative 
+ 
+ xpath with attribute 
+ xpath = //*[@attribute='value']  - //input[@value='female']
+//Xpath = //*[contains(@type,'values')]  - 
+// starts-with 
+// text()   - //button[text()='Login to Account']
+////h3[text()=' Web login ']
+following:: input[@id='email_field']//following::button[1]
+
+ 
+ Thread.sleep - Its not good 
+ Maximise the screen
+ Close the browser 
+ 
+ Select Class - drop down 
+ 
+ Manual Testcases 
+ 
+ TestNG
+ and Cucumber
+ 
+ Action Class 
+ Open Tab
+ Mouse over 
+ ToolTip
+ Assertions 
+ DoubleClick 
+ 
+ Wait - Thread.Sleep 
+ 
+ Waits : 
+ 1. Implicit Wait   -  wait the element - wait for every action. - Driver level - Element
+ 2. Explicit Wait  - This wait will perform based on the condition 
+ 3. FluentWait  - Much effect wait - will poll and look for element in frequent timing. 
+ 
+ Auto complete 
+ findElements 
+ 
+ 
+ Robot 
+ Table 
+ Windows .
+ Frames
+ 
+ DragDrop--Pending. 
+ FileUpload - Pending
+ MultiTHread -Pending
+ 
+ 23-FEb
+ TestNG annotation - Completed
+ Extent Report  - Completed
+ ScreenShot  - Screenshot
+ 
+ 
+ Data from Excel Sheet
+ 
+ 24-Feb - Framework
+ 
+ Cucumber - Understanding and Framework 
+ 
+ Jenkins
+ 
+ Webservice
+ Unix and SQL
+ 
+ Mobile Automation - Akshay
+ GIT - Mithun
+ 
+ 
+ Mock 
+ 
+ TestNG
+   annotations
+   
+   @BeforeSuite
+   @BeforeTest
+   @BeforeMethod
+   @Test - Method
+   @AfterMethod
+   @AfterTest
+   @AfterSuite
+ 
+ 
+ ExtentReport;
+ 
+ 1. Add Dependency - avantstack 
+ 2. Add three files in package - com.training.listerners
+ 3. Add listerner tag in TestNG.xml
+ 
+ other - configure teh filename and the foldername -ExtentManager.java
+ 
+ Log4J
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Regression Suite">
+ 
+<parameter name="url" value="https://selenium-qa.firebaseapp.com/home.html"></parameter>
+<parameter name="username" value="test@test.com"></parameter>
+<parameter name="password" value="test@123"></parameter>
+<parameter name="browser" value="Chrome"></parameter>
+
+<listeners>
+<listener class-name="com.training.listeners.TestListener"></listener>
+</listeners>
+
+ <test name = 'Login'>
+ 	<classes>
+ 		<class name = "com.training.testng.FirstClass">
+ 		</class>
+ 		
+ 	</classes>
+ </test> 
+ 
+ 
+</suite> 

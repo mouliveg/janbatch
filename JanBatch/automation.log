@@ -1,0 +1,14 @@
+2022-02-24 00:41:13,490 INFO  [Log] ****************           -S-T-A-R-T-Test1       **************** 
+2022-02-24 00:41:13,493 INFO  [Log] First Class - I am in Method1 
+2022-02-24 00:41:13,493 INFO  [Log] URL ::: https://selenium-qa.firebaseapp.com/home.html 
+2022-02-24 00:43:33,000 INFO  [Log] ****************           -S-T-A-R-T-Test1       **************** 
+2022-02-24 00:43:33,002 INFO  [Log] First Class - I am in Method1 
+2022-02-24 00:43:33,002 INFO  [Log] URL ::: https://selenium-qa.firebaseapp.com/home.html 
+2022-02-24 00:43:33,002 ERROR [Log] Password is Incorrect 
+2022-02-24 00:50:38,945 INFO  [Log] ****************           -S-T-A-R-T-Test1       **************** 
+2022-02-24 00:50:39,083 INFO  [Log] ****************           -S-T-A-R-T-Test1       **************** 
+2022-02-24 00:50:39,085 INFO  [Log] First Class - I am in Method1 
+2022-02-24 00:50:39,085 INFO  [Log] URL ::: https://selenium-qa.firebaseapp.com/home.html 
+2022-02-24 00:50:39,085 ERROR [Log] Password is Incorrect 
+2022-02-24 00:50:39,085 FATAL [Log] Some Fatel information - Database didnt connect 
+2022-02-24 00:50:39,086 INFO  [Log] TEST IS PASSED 

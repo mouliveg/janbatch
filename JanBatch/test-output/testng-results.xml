@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="249" started-at="2022-02-24T00:50:38 IST" finished-at="2022-02-24T00:50:39 IST">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="249" started-at="2022-02-24T00:50:38 IST" finished-at="2022-02-24T00:50:39 IST">
+      <class name="com.training.testng.FirstClass">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.training.testng.FirstClass@2db7a79b]" name="beforemethod" is-config="true" duration-ms="78" started-at="2022-02-24T00:50:38 IST" finished-at="2022-02-24T00:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test2()[pri:1, instance:com.training.testng.FirstClass@2db7a79b]" name="test2" duration-ms="113" started-at="2022-02-24T00:50:38 IST" finished-at="2022-02-24T00:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.training.testng.FirstClass@2db7a79b]" name="aftermethod" is-config="true" duration-ms="1" started-at="2022-02-24T00:50:39 IST" finished-at="2022-02-24T00:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.training.testng.FirstClass@2db7a79b]" name="beforemethod" is-config="true" duration-ms="8" started-at="2022-02-24T00:50:39 IST" finished-at="2022-02-24T00:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.training.testng.FirstClass@2db7a79b]" name="test1" duration-ms="3" started-at="2022-02-24T00:50:39 IST" finished-at="2022-02-24T00:50:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://selenium-qa.firebaseapp.com/home.html]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@test.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.training.testng.FirstClass@2db7a79b]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-02-24T00:50:39 IST" finished-at="2022-02-24T00:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.training.testng.FirstClass@2db7a79b]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-02-24T00:50:39 IST" finished-at="2022-02-24T00:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.training.testng.FirstClass@2db7a79b]" name="afterSuite" is-config="true" duration-ms="1" started-at="2022-02-24T00:50:39 IST" finished-at="2022-02-24T00:50:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.training.testng.FirstClass -->
+    </test> <!-- Login -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
